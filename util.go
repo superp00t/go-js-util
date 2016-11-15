@@ -1,5 +1,5 @@
 // Package util provides some helpers for working with GopherJS.
-package util // import "honnef.co/go/js/util"
+package util
 
 import "github.com/gopherjs/gopherjs/js"
 
